@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+    phpspec_suite:
+        namespace: Smuller\Phpspec

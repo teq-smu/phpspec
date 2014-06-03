@@ -1,0 +1,11 @@
+{
+    "name": "smuller/phpspec",
+    "require": {
+        "phpspec/phpspec": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Smuller\\Phpspec": "src"
+        }
+    }
+}
